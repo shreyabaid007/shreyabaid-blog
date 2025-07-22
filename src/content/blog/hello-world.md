@@ -2,7 +2,7 @@
 title: 'Hello World - Starting My Technical Blog'
 description: 'Welcome to my blog where I share insights on technology, AI, and software engineering.'
 pubDate: 'Jul 22 2025'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
 Welcome to my technical blog! I'm excited to share my journey and insights in software engineering, AI, and technology.
